@@ -32,5 +32,5 @@ We will provide you with shared rooms of 4-people at [Generator Hostel](https://
 <!--- 
 ## Travel Grant
 
-We hope to enable all students independent of financial means to attend the winter school. Therefore, we have reserved a limited budget for travel grants. Please send us an email with a motivation (200 words) and a list of needed funds to our email address [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gmail.com). With the acceptance letter, we will notify you with how much money we can support you. In case the required budget exceeds the available funds, we might not be able to cover all your needed costs.
+We hope to enable all students independent of financial means to attend the winter school. Therefore, we have reserved a limited budget for travel grants. Please send us an email with a motivation (200 words) and a list of needed funds to our email address [acscc@protonmail.com](mailto:acscc@protonmail.com). With the acceptance letter, we will notify you with how much money we can support you. In case the required budget exceeds the available funds, we might not be able to cover all your needed costs.
 --->
