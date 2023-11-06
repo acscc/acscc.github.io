@@ -8,7 +8,7 @@ You can contact us at [acscc@protonmail.com](mailto:acscc@protonmail.com) or wri
 |[Fabian Dablander](https://fabiandablander.com)|[Adam Finnemann](https://afinnemann.github.io/afinnemann/)|
 |:-------------------------:|:-------------------------:|
 |<img src="/assets/image23/committee/fabian.png" height="120px"  />| <img src="/assets/image23/committee/adam.png" height="120px"  />|
-|Institute for Biodiversity and Ecosystem <br> Dynamics <br> Institute for Advanced Study, <br> University of Amsterdam | Psychological Methods,<br>  University of Amsterdam |
+|Institute for Biodiversity and Ecosystem <br> Dynamics <br> Institute for Advanced Study, <br> University of Amsterdam | Psychological Methods, University <br> of Amsterdam |
 
 |[Jonas Haslbeck](https://jonashaslbeck.com/)|[Karoline Huth](https://karolinehuth.github.io/)|
 |:-------------------------:|:-------------------------:|
