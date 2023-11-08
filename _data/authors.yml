@@ -3,8 +3,8 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              wwcs2022
-  email:             wwcs2022@gmail.com
+  name:              ACSCC
+  email:             acscc.info@protonmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,10 +26,10 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         winter_complex
-    github:          qwtel/hydejack
+    # twitter:         winter_complex
+    github:          acscc
     # download:        <url>
-    # email:           <mail@domain.tld>
+    email:           <acscc.info@protonmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>

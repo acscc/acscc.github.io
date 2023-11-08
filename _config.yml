@@ -40,7 +40,7 @@ logo:                  /assets/icons/earth-svgrepo-com.svg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                ACSCC
-  email:               acscc@protonmail.com
+  email:               acscc.info@protonmail.com
   # Used by `jekyll-seo-tag`:
   #twitter:             winter_complex
   github:              acscc
@@ -97,7 +97,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/image/amsterdam_side.jpg
+accent_image:          /assets/image23/amsterdam3.avif
 accent_color:          rgb(118,194,138)
 
 # This is used for the `theme-color` meta tag,
