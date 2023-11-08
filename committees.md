@@ -3,7 +3,7 @@ layout: page
 title:  Committee
 ---
 
-You can contact us at [acscc@protonmail.com](mailto:acscc@protonmail.com) or write us directly using the following information.
+You can contact us at [acscc.info@protonmail.com](mailto:acscc.info@protonmail.com) or write us directly using the following information.
 
 |[Fabian Dablander](https://fabiandablander.com)|[Adam Finnemann](https://afinnemann.github.io/afinnemann/)|
 |:-------------------------:|:-------------------------:|
