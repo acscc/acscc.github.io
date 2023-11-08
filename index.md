@@ -22,7 +22,7 @@ The complexity school will feature lectures, tutorials, and panel discussions by
 
 ## Contact
 
-Email us at: [acscc@protonmail.com](mailto:acscc@protonmail.com)
+Email us at: [acscc.info@protonmail.com](mailto:acscc.info@protonmail.com)
 
 <!---
 <center>
