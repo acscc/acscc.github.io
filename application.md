@@ -5,9 +5,9 @@ title:  Application
 
 To attend the workshop, we ask all interested individuals to submit an application form and a CV. Bear in mind the following dates:
 
-- Start of applications: Dec 1st, 2023
-- Deadline for applications: January 15th, 2024
-- Notification of acceptance: January 31st, 2024
+- Start of applications: January 1st, 2024
+- Deadline for applications: January 31st, 2024
+- Notification of acceptance: February 15th, 2024
 
 The application form will be made available here at the start of the application.
 
