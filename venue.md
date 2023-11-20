@@ -17,12 +17,6 @@ One of the working rooms of the workshop.
 ## Travel Information:
 
 [Institute for Advanced Study on Google Maps](https://www.google.com/maps/place/Institute+for+Advanced+Study/@52.3679637,4.8917781,17z/data=!3m1!4b1!4m5!3m4!1s0x47c609c00d48a0b5:0x4f066d8fac23e314!8m2!3d52.3679637!4d4.8939668?hl=en)
-<<<<<<< HEAD
-=======
-
-Amsterdam can easily reached by train (Amsterdam Centraal). If a train is not feasible it can also be reached via plane (Schiphol Airport).
-
->>>>>>> refs/remotes/origin/master
 
 Amsterdam can easily reached by train (Amsterdam Centraal).
 
