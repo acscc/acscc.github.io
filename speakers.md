@@ -3,7 +3,7 @@ layout: page
 title:  Speakers
 ---
 
-You can find a list of confirmed speakers, but there are more to come!
+You can find a list of confirmed speakers below, but there are more to come!
 
 <div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/oscar.jpg" width="25%"/>
