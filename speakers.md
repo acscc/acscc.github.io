@@ -6,7 +6,7 @@ title:  Speakers
 You can find a list of confirmed speakers below, but there are more to come!
 
 <div style="overflow: hidden; margin-top: 40px;">
-  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/paul.jpg" width="25%"/>
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/paul2.jpg" width="25%"/>
   <p><a href='https://drpaulbehrens.com/'>Paul Behrens</a> is an Associate Professor in Environmental Change at Leiden University. His research on energy and food systems, land use, and climate change has appeared in scientific journals and media outlets such as <i>The New York Times</i>, <i>Scientific American</i>, <i>BBC</i>, <i>Nature Sustainability</i>, <i>Nature Energy</i>, <i>Nature Food</i>, and <i>PNAS</i>. A physicist by training, Paul is the author of the popular science book <i>The Best of Times, The Worst of Times: Futures from the Frontiers of Climate Science</i> and has worked in industry, NGOs, and academia. He has provided expert scientific advice to the New Zealand Government and the British Government.
   </p>
 </div>
