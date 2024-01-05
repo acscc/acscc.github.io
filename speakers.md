@@ -31,3 +31,8 @@ You can find a list of confirmed speakers below, but there are more to come!
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/erika.jpg" width="25%"/>
   <p><a href='https://www.linkedin.com/in/erikavanderlinden'>Erika van der Linden</a> holds Master's degrees in Systems Engineering and Natural Resource Economics and is doing her PhD at Radboud University on how firms are (and are not) contributing to the sustainable development goals. She also works as a policymaker at the Ministry for Economic Affairs and Climate, and has contributed substantially to the government's plan for the energy system of the future ('nationaal plan energiesysteem').</p>
 </div>
+
+<div style="overflow: hidden; margin-top: 40px;">
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/marthe.jpg" width="25%"/>
+  <p><a href='https://twitter.com/MartheWens'>Marthe Wens</a> is an Assistant Professor at the Institute for Environmental Studies at the Vrije Universiteit Amsterdam. Her research concerns water security and societal impacts, with a specific focus on modelling the intertwined nature of drought risk and human adaptive behaviour. Marthe uses machine learning to create risk profiles to support disaster risk reduction efforts, and is working on models that evaluate the feedbacks between drought events, farmers' risk perception, food security, and adaptation decisions. She is part of several United Nations programs and an active member of Scientist Rebellion.</p>
+</div>
