@@ -6,6 +6,12 @@ title:  Speakers
 You can find a list of confirmed speakers below, but there are more to come!
 
 <div style="overflow: hidden; margin-top: 40px;">
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/paul.jpg" width="25%"/>
+  <p><a href='https://drpaulbehrens.com/'>Paul Behrens</a> is an Associate Professor in Environmental Change at Leiden University. His research on energy and food systems, land use, and climate change has appeared in scientific journals and media outlets such as <i>The New York Times</i>, <i>Scientific American</i>, <i>BBC</i>, <i>Nature Sustainability</i>, <i>Nature Energy</i>, <i>Nature Food</i>, and <i>PNAS</i>. A physicist by training, Paul is the author of the books <i>The Best of Times, The Worst of Times: Futures from the Frontiers of Climate Science</i> and <i>Food and Sustainability</i> and has worked in industry, NGOs, and academia. He has provided expert scientific advice to the New Zealand Government and the British Government on environmental sustainability and other topics.
+  </p>
+</div>
+
+<div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/oscar.jpg" width="25%"/>
   <p><a href='https://twitter.com/berglund_oscar'>Oscar Berglund</a> is a senior lecturer in international public and social policy at the University of Bristol. His research looks at political contestation of global processes like neoliberalisation, austerity and climate change. This includes both non-violent contestation by social movements and parliamentary forms of contestation. His research draws on a historical materialist theoretical framework with a focus on political agency and contestation. He is particularly interested in how social movements use civil disobedience to achieve their aims and how they justify their law-breaking.</p>
 </div>
