@@ -11,7 +11,7 @@ To attend the workshop, we ask all interested individuals to submit an applicati
 
 The application form will be made available here at the start of the application.
 
-We aim to create an inclusive, diverse, sociable, and motivated group of young researchers. The group will be a mix of young-career researchers and other climate change stakeholders. 
+We aim for an inclusive event where a set of diverse and highly motivated young researchers and other climate change stakeholders can come together. Excellent applicants with no previous experiences with complexity research will also be considered. We aim for about 40 participants.
 
 ## Registration
 
