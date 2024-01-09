@@ -3,8 +3,6 @@ layout: page
 title:  Program
 ---
 
-The complexity school will feature lectures, tutorials, and a panel discussion which will be held by experts, attendees, and different stakeholders. More details will follow soon.
+The complexity school focuses on collaborative work among the participants, but also includes talks, a panel discussion, and tutorials which will be held by researchers, participants, and other climate change stakeholders.
 
-<!---
-<img src="/assets/image23/pre_programme.png" width="100%" />
---->
+<img src="/assets/image23/programme.png" width="100%" />
