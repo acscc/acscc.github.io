@@ -3,23 +3,21 @@ layout: page
 title:  Application
 ---
 
-To attend the workshop, we ask all interested individuals to submit an application form and a CV. Bear in mind the following dates:
+To attend the workshop, we ask all interested individuals to fill out an [application form](https://forms.gle/nAdnnf1eQhAvu9Z99). Bear in mind the following dates:
 
 - Start of applications: January 10, 2024
 - Deadline for applications: February 10, 2024
 - Notification of acceptance: February 20, 2024
 
-The application form will be made available here at the start of the application.
-
 We aim for an inclusive event where a set of diverse and highly motivated young researchers and other climate change stakeholders can come together. We aim for about 40 participants.
 
 ## Registration
 
-The workshop registration fee is 350EUR and it includes:
+The registration fee is 450EUR and it includes:
 - Accommodation from Sunday to Friday (5 nights)
 - Breakfast at the accommodation
 - Lunch and coffee breaks at the workshop location
-<!--- - Social Dinner on Thursday --->
+- Social dinner on Wednesday
 
 The workshop will exclusively be an onsite event.
 
