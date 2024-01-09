@@ -29,7 +29,7 @@ You can find a list of confirmed speakers below, but there are more to come!
 
 <div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/erika.jpg" width="25%"/>
-  <p><a href='https://www.linkedin.com/in/erikavanderlinden'>Erika van der Linden</a> holds a Master's degrees in Systems Engineering and is doing her PhD at Radboud University on how firms are (and are not) contributing to the sustainable development goals. She also works as a policymaker at the Ministry for Economic Affairs and Climate, where she focuses on the strategy for the Dutch energy transition, called the Dutch National Energy Plan ('nationaal plan energiesysteem').
+  <p><a href='https://www.linkedin.com/in/erikavanderlinden'>Erika van der Linden</a> holds a Master's degree in Systems Engineering and is doing her PhD at Radboud University on how firms are (and are not) contributing to the sustainable development goals. She also works as a policymaker at the Ministry for Economic Affairs and Climate, where she focuses on the strategy for the Dutch energy transition, called the Dutch National Energy Plan ('nationaal plan energiesysteem').
   </p>
 </div>
 
