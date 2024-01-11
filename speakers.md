@@ -18,16 +18,21 @@ You can find a list of confirmed speakers below, but there are more to come!
 </div>
 
 <div style="overflow: hidden; margin-top: 40px;">
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/aarti.png" width="25%"/>
+  <p><a href='https://twitter.com/AartiGupta17'>Aarti Gupta</a> is an Professor of Global Environmental Governance at Wageningen University.
+  She works on global environmental and climate governance, with a focus on transparency and accountability and the challenges of anticipatory governance of novel technologies (such as solar geo-engineering). She is a member of the Scientific Steering Committee of the Earth System Governance (ESG) research alliance and co-leads the international REIMAGINE consortium project on anticipatory climate governance in vulnerable regions of the global South. Aarti holds a PhD from Yale and has done postdoctoral research at Columbia and Harvard University in political science, international relations, and science and technology studies. She also worked outside of academia at the United Nations Development Programme in New York, Oxfam-Novib in the Hague, and Transparency International in Berlin.
+  </p>
+</div>
+
+<div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/oscar.jpg" width="25%"/>
   <p><a href='https://twitter.com/berglund_oscar'>Oscar Berglund</a> is a senior lecturer in international public and social policy at the University of Bristol. His research looks at political contestation of global processes like neoliberalisation, austerity and climate change. This includes both non-violent contestation by social movements and parliamentary forms of contestation. His research draws on a historical materialist theoretical framework with a focus on political agency and contestation. He is particularly interested in how social movements use civil disobedience to achieve their aims and how they justify their law-breaking.</p>
 </div>
-
 
 <div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/anne.jpg" width="25%"/>
   <p><a href='https://twitter.com/anne_kervers'>Anne Kervers</a> researches the link between money creation and climate finance as a PhD candidate at the University of Amsterdam. Prior to her PhD she worked at Triodos Bank. She is a board member of the Green Art Lab Alliance and on the advising committee of Kapitaloceen. Anne has been active in Extinction Rebellion in different roles since 2019.</p>
 </div>
-
 
 <div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/ernst-jan.jpg" width="25%"/>
@@ -48,11 +53,4 @@ You can find a list of confirmed speakers below, but there are more to come!
 <div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/marthe.jpg" width="25%"/>
   <p><a href='https://twitter.com/MartheWens'>Marthe Wens</a> is an Assistant Professor at the Institute for Environmental Studies at the Vrije Universiteit Amsterdam. Her research concerns water security and societal impacts, with a specific focus on modelling the intertwined nature of drought risk and human adaptive behaviour. Marthe uses machine learning to create risk profiles to support disaster risk reduction efforts, and agent-based models to evaluate the feedbacks between drought events, food security, and adaptation. She is part of several United Nations programs and very active with Scientist Rebellion.</p>
-</div>
-
-<div style="overflow: hidden; margin-top: 40px;">
-  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/aarti.png" width="25%"/>
-  <p><a href='https://twitter.com/AartiGupta17'>Aarti Gupta</a> is an Professor of Global Environmental Governance at Wageningen University.
-  She works on global environmental and climate governance, with a focus on transparency and accountability and the challenges of anticipatory governance of novel technologies (such as solar geo-engineering). She is a member of the Scientific Steering Committee of the Earth System Governance (ESG) research alliance and co-leads the international REIMAGINE consortium project on anticipatory climate governance in vulnerable regions of the global South. Aarti holds a PhD from Yale and has done postdoctoral research at Columbia and Harvard University in political science, international relations, and science and technology studies. She also worked outside of academia at the United Nations Development Programme in New York, Oxfam-Novib in the Hague, and Transparency International in Berlin.
-  </p>
 </div>
