@@ -12,6 +12,12 @@ You can find a list of confirmed speakers below, but there are more to come!
 </div>
 
 <div style="overflow: hidden; margin-top: 40px;">
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/irene.jpg" width="25%"/>
+  <p><a href='https://twitter.com/IreMonasterolo'>Irene Monasterolo</a> is Professor of Climate Finance at the Utrecht University School of Economics, where she works on the role of finance in climate change mitigation and adaptation. Irene has developed methodological approaches to analyse the macro-financial criticality of climate risks and the role of green finance policies in the low-carbon transition. Her research on a climate stress tests and stock-flow consistent macro-economic models with heterogeneous, interacting agents have been published in journals such as <i>Science</i> and <i>Nature Climate Change</i> and applied by international financial institutions such as the World Bank, the Monetary Authority of Singapore, the European Banking Authority, and national central banks.
+  </p>
+</div>
+
+<div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/oscar.jpg" width="25%"/>
   <p><a href='https://twitter.com/berglund_oscar'>Oscar Berglund</a> is a senior lecturer in international public and social policy at the University of Bristol. His research looks at political contestation of global processes like neoliberalisation, austerity and climate change. This includes both non-violent contestation by social movements and parliamentary forms of contestation. His research draws on a historical materialist theoretical framework with a focus on political agency and contestation. He is particularly interested in how social movements use civil disobedience to achieve their aims and how they justify their law-breaking.</p>
 </div>
