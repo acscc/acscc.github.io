@@ -6,8 +6,8 @@ title:  Speakers
 You can find a list of confirmed speakers below, but there are more to come!
 
 <div style="overflow: hidden; margin-top: 40px;">
-  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/paul2.jpg" width="25%"/>
-  <p><a href='https://drpaulbehrens.com/'>Paul Behrens</a> is an Associate Professor in Environmental Change at Leiden University. His research on energy, food, land use, and climate change has appeared in scientific journals and media outlets such as <i>The New York Times</i>, <i>Scientific American</i>, <i>BBC</i>, <i>Nature Sustainability</i>, <i>Nature Energy</i>, <i>Nature Food</i>, and <i>PNAS</i>. A physicist by training, Paul is the author of the popular science book <i>The Best of Times, The Worst of Times: Futures from the Frontiers of Climate Science</i> and has worked in industry, NGOs, and academia. He has provided expert scientific advice to the New Zealand Government and the British Government.
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/tim.jpg" width="25%"/>
+  <p><a href='https://scholar.google.nl/citations?user=DiCOJ64AAAAJ&hl=nl&oi=ao'>Tim Lenton</a> is Chair in Climate Change and Earth System Science at the University of Exeter. His reading of Jim Lovelock’s books on Gaia, when he was an undergraduate, ignited his passion for studying the Earth as a whole system, forming the foundations of his research to date. Tim has made foundational contribution to the study of climate tipping points and Earth system science more broadly, and his integrated view of our living planet is captured in his books <i>Revolutions that made the Earth</i> and <i>Earth System Science: A Very Short Introduction</i>. In recent years Tim has shifted his focus towards identifying positive tipping points towards systainability, and is currently on leave to write a book on the topic.
   </p>
 </div>
 
@@ -21,6 +21,12 @@ You can find a list of confirmed speakers below, but there are more to come!
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/aarti.png" width="25%"/>
   <p><a href='https://twitter.com/AartiGupta17'>Aarti Gupta</a> is an Professor of Global Environmental Governance at Wageningen University.
   She works on global environmental and climate governance, with a focus on transparency and accountability and the challenges of anticipatory governance of novel technologies (such as solar geo-engineering). She is a member of the Scientific Steering Committee of the Earth System Governance (ESG) research alliance and co-leads the international REIMAGINE consortium project on anticipatory climate governance in vulnerable regions of the global South. Aarti holds a PhD from Yale and has done postdoctoral research at Columbia and Harvard University in political science, international relations, and science and technology studies. She also worked outside of academia at the United Nations Development Programme in New York, Oxfam-Novib in the Hague, and Transparency International in Berlin.
+  </p>
+</div>
+
+<div style="overflow: hidden; margin-top: 40px;">
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/paul2.jpg" width="25%"/>
+  <p><a href='https://drpaulbehrens.com/'>Paul Behrens</a> is an Associate Professor in Environmental Change at Leiden University. His research on energy, food, land use, and climate change has appeared in scientific journals and media outlets such as <i>The New York Times</i>, <i>Scientific American</i>, <i>BBC</i>, <i>Nature Sustainability</i>, <i>Nature Energy</i>, <i>Nature Food</i>, and <i>PNAS</i>. A physicist by training, Paul is the author of the popular science book <i>The Best of Times, The Worst of Times: Futures from the Frontiers of Climate Science</i> and has worked in industry, NGOs, and academia. He has provided expert scientific advice to the New Zealand Government and the British Government.
   </p>
 </div>
 
