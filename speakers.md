@@ -36,6 +36,11 @@ You can find a list of confirmed speakers below, but there are more to come!
 </div>
 
 <div style="overflow: hidden; margin-top: 40px;">
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/marthe.jpg" width="25%"/>
+  <p><a href='https://twitter.com/MartheWens'>Marthe Wens</a> is an Assistant Professor at the Institute for Environmental Studies at the Vrije Universiteit Amsterdam. Her research concerns water security and societal impacts, with a specific focus on modelling the intertwined nature of drought risk and human adaptive behaviour. Marthe uses machine learning to create risk profiles to support disaster risk reduction efforts, and agent-based models to evaluate the feedbacks between drought events, food security, and adaptation. She is part of several United Nations programs and very active with Scientist Rebellion.</p>
+</div>
+
+<div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/anne.jpg" width="25%"/>
   <p><a href='https://twitter.com/anne_kervers'>Anne Kervers</a> researches the link between money creation and climate finance as a PhD candidate at the University of Amsterdam. Prior to her PhD she worked at Triodos Bank. She is a board member of the Green Art Lab Alliance and on the advising committee of Kapitaloceen. Anne has been active in Extinction Rebellion in different roles since 2019.</p>
 </div>
@@ -54,9 +59,4 @@ You can find a list of confirmed speakers below, but there are more to come!
 <div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/kornelia.jpeg" width="25%"/>
   <p><a href='https://www.linkedin.com/in/kornelia-dimitrova/'>Kornelia Dimitrova</a> is an architect, researcher, and writer based in Rotterdam and Eindhoven. Over the years, she has taught, written, spoken, designed, advised, and advocated for the value of caring and ecological imaginations in enabling spatial and social transformations. In 2021, she authored the Playbook for Healing environments, a spatial strategy for one of the largest and oldest mental health estates in The Netherlands. In 2018, she co-founded <a href='https://www.foundationweare.org/'>Foundation We Are</a> and currently leads the <a href='https://collaborationsforfuture.com/'>Collaborations for Future</a> program, focused on making the collaborations between designers and climate scientists more effective and sustainable.</p>
-</div>
-
-<div style="overflow: hidden; margin-top: 40px;">
-  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/marthe.jpg" width="25%"/>
-  <p><a href='https://twitter.com/MartheWens'>Marthe Wens</a> is an Assistant Professor at the Institute for Environmental Studies at the Vrije Universiteit Amsterdam. Her research concerns water security and societal impacts, with a specific focus on modelling the intertwined nature of drought risk and human adaptive behaviour. Marthe uses machine learning to create risk profiles to support disaster risk reduction efforts, and agent-based models to evaluate the feedbacks between drought events, food security, and adaptation. She is part of several United Nations programs and very active with Scientist Rebellion.</p>
 </div>
