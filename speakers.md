@@ -4,6 +4,12 @@ title:  Speakers
 ---
 
 <div style="overflow: hidden; margin-top: 40px;">
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/detlef.jpg" width="25%"/>
+  <p><a href='https://scholar.google.nl/citations?user=FltFdkoAAAAJ&hl=nl&oi=ao'>Detlef van Vuuren</a> leads the IMAGE integrated assessment model team at PBL and is Professor of Integrated Assessment of Global Environmental Problems at Utrecht University. Detlef had a coordinating role in the development of the Representative Concentration Pathways (RCPs) and Shared Socio-economic Pathways (SSPs), scenarios heavily relied on in the IPCC reports, and serves on the board of the Integrated Assessment Modeling Consortium (IAMC), the EAT Lancet Commission, the Earth Commission, and the Global Carbon Project. He has published over 460 articles in leading scientific journals and was recently named by Reuters as the world's fourth most influential climate scientist.
+  </p>
+</div>
+
+<div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/tim.jpg" width="25%"/>
   <p><a href='https://scholar.google.nl/citations?user=DiCOJ64AAAAJ&hl=nl&oi=ao'>Tim Lenton</a> is Chair in Climate Change and Earth System Science at the University of Exeter. His reading of Jim Lovelock’s books on Gaia, when he was an undergraduate, ignited his passion for studying the Earth as a whole system, forming the foundations of his research to date. Tim has made fundamental contributions to the study of climate tipping points and Earth system science more broadly, and his integrated view of our living planet is captured in his books <i>Revolutions That Made The Earth</i> and <i>Earth System Science: A Very Short Introduction</i>. In recent years, Tim has shifted his focus to identifying positive tipping points towards sustainability, and is currently on sabbatical to write a book on the subject.
   </p>
