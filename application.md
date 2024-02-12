@@ -6,7 +6,7 @@ title:  Application
 To attend the workshop, we ask all interested individuals to fill out an [application form](https://forms.gle/nAdnnf1eQhAvu9Z99). Bear in mind the following dates:
 
 - Start of applications: January 10, 2024
-- Deadline for applications: February 10, 2024
+- Deadline for applications: <sout>February 10</sout> **Extended Deadline: February 17**, 2024
 - Notification of acceptance: February 20, 2024
 
 We aim for an inclusive event where a set of diverse and highly motivated young researchers and other climate change stakeholders can come together. We aim for about 40 participants.
