@@ -60,6 +60,12 @@ title:  Speakers
   </p>
 </div>
 
+
+<div style="overflow: hidden; margin-top: 40px;">
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/esme.jpeg" width="25%"/>
+  <p><a href='https://www.linkedin.com/in/esme-fantozzi/'>Esmé Fantozzi</a> is the founder of AklysTransform, a consultancy with the mission of enabling and accelerating the transition to sustainable energy, especially in hard-to-decarbonize sectors. Her passion for sustainability stems from a global career largely centred on supply chain, operational, and asset management excellence. She has first-hand experience of how making sustainable choices and applying circular principles in the design phase of projects and businesses influence their sustainability performance for the decades of operational life ahead. Esmé worked internationally, and for almost 20 years, in the oil and gas sector. She held central corporate roles, and frontline ones in operated ventures and as a secondee in non-operated ventures, working and living in Europe, the United States, the Middle East, and Asia. She holds a Laurea in Physics from Padua University and a Master of Engineering from the Massachusetts Institute of Technology.</p>
+</div>
+
 <div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/kornelia.jpeg" width="25%"/>
   <p><a href='https://www.linkedin.com/in/kornelia-dimitrova/'>Kornelia Dimitrova</a> is an architect, researcher, and writer based in Rotterdam and Eindhoven. Over the years, she has taught, written, spoken, designed, advised, and advocated for the value of caring and ecological imaginations in enabling spatial and social transformations. In 2021, she authored the Playbook for Healing environments, a spatial strategy for one of the largest and oldest mental health estates in The Netherlands. In 2018, she co-founded <a href='https://www.foundationweare.org/'>Foundation We Are</a> and currently leads the <a href='https://collaborationsforfuture.com/'>Collaborations for Future</a> program, focused on making the collaborations between designers and climate scientists more effective and sustainable.</p>
