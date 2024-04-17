@@ -62,7 +62,7 @@ title:  Speakers
 
 
 <div style="overflow: hidden; margin-top: 40px;">
-  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/esme.jpeg" width="25%"/>
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/esme.jpg" width="25%"/>
   <p><a href='https://www.linkedin.com/in/esme-fantozzi/'>Esmé Fantozzi</a> is the founder of AklysTransform, a consultancy with the mission of enabling and accelerating the transition to sustainable energy, especially in hard-to-decarbonize sectors. Esmé worked internationally, and for almost 20 years, in the oil and gas sector. She held central corporate roles, and frontline ones in operated ventures and as a secondee in non-operated ventures, working and living in Europe, the United States, the Middle East, and Asia. She holds a Laurea in Physics from Padua University and a Master of Engineering from the Massachusetts Institute of Technology.</p>
 </div>
 
