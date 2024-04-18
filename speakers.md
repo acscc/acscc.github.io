@@ -11,7 +11,7 @@ title:  Speakers
 
 <div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/marten.png" width="25%"/>
-  <p><a href='https://scholar.google.nl/citations?user=cXmbPusAAAAJ&hl=nl'>Marten Scheffer</a> is Professor of Aquatic Ecology and Water Quality Management at Wageningen University. Marten has made fundamental contributions to the study of the stability and resilience of complex systems and pioneered the study of early warning signals to anticipate critical transitions in both natural and social systems. He is one of the most highly cited ecologists, the author of the seminal book "Critical Transitions in Nature and Society", and recipient of the "Dutch Nobel Prize" (the Spinoza Prize). He co-founded the South American Institute for Resilience and Sustainability Studies and is also an acclaimed musician.
+  <p><a href='https://scholar.google.nl/citations?user=cXmbPusAAAAJ&hl=nl'>Marten Scheffer</a> is Professor of Aquatic Ecology and Water Quality Management at Wageningen University. Marten has made fundamental contributions to the study of the stability and resilience of complex systems and pioneered the study of early warning signals to anticipate critical transitions in both natural and social systems. He is one of the most highly cited ecologists, the author of the seminal book <i>Critical Transitions in Nature and Society</i>, and recipient of the "Dutch Nobel Prize" (the Spinoza Prize). He co-founded the South American Institute for Resilience and Sustainability Studies and is also an acclaimed musician.
   </p>
 </div>
 
