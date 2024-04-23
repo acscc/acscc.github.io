@@ -72,6 +72,6 @@ title:  Speakers
 </div>
 
 <div style="overflow: hidden; margin-top: 40px;">
-  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/kornelia.jpeg" width="25%"/>
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/rachel.jpg" width="25%"/>
   <p><a href='https://www.linkedin.com/in/rachel-donald/'>Rachel Donald</a> is the creator of <a href="https://www.planetcritical.com/">Planet: Critical</a>, the podcast and newsletter for a world in crisis with 11,000+ subscribers from 163 countries. Planet: Critical connects the dots of science, art, language, politics, media, philosophy and power to reveal the big picture. Rachel speaks internationally on this ecosystem as an independent researcher and writer. Alongside Planet: Critical, her world exclusive investigations into climate corruption have been published in The Guardian, Al Jazeera, Mongabay, The Intercept, Byline Times and the New Republic.</p>
 </div>
