@@ -27,7 +27,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  April 29 -- May 3 2024, Amsterdam
+  April 28 -- May 2 2025, Amsterdam
 
 # A list of keywords for your blog
 keywords:              []
@@ -67,12 +67,14 @@ menu:
     url:   /accommodation/
 #  - title: Registration
 #    url: /registration/
-  - title: Committee
-    url:   /committees/
   - title: Application
     url:   /application/
+  - title: Committee
+    url:   /committees/
   - title: Support
     url:   /support/
+  - title: Past Workshops
+    url:   /past_workshops/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
