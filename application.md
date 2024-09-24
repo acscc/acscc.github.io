@@ -5,7 +5,7 @@ title:  Application
 
 To attend the workshop, we ask all interested individuals to fill out an application form, which will be available here once the applications open. Bear in mind the following dates:
 
-- Start of applications: November 1st, 2025
+- Start of applications: November 1st, 2024
 - Deadline: January 19th, 2025
 - Notification of acceptance: February 1st, 2025
 
