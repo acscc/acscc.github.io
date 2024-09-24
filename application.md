@@ -23,7 +23,7 @@ The workshop will exclusively be an onsite event.
 
 ## Accommodation
 
-We will provide you with shared rooms of 4-people at [Generator Hostel](https://staygenerator.com/hostels/amsterdam) in Oosterpark. We will split the rooms based on sex. If you prefer a different arrangement, please send us an email to [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gmail.com). In case you prefer to have a single room, we ask you to arrange it yourself at [Generator Hostel](https://staygenerator.com/hostels/amsterdam).
+We will provide you with shared rooms of 4-people at [Generator Hostel](https://staygenerator.com/hostels/amsterdam) in Oosterpark. We will split the rooms based on sex. If you prefer a different arrangement, please send us an email to [acscc@protonmail.com](mailto:acscc@protonmail.com). In case you prefer to have a single room, we ask you to arrange it yourself at [Generator Hostel](https://staygenerator.com/hostels/amsterdam).
 
 ## Travel Grant
 
