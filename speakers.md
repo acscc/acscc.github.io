@@ -16,6 +16,11 @@ Below you find a list of confirmed speakers. More to come!
   </p>
 </div>
 
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/vitor.png" width="25%"/>
+  <p><a href='https://www.vvvasconcelos.net/'>Vítor Vasconcelos</a> is Assistant Professor at the Computational Science Lab at the University of Amsterdam. He works on mathematical and computational models of human collective behavior to anticipate the intended and unintended consequences of interventions in complex social systems. Vítor co-leads the <a href="https://polder.center/">Polder</a> initiative at the Institute for Advanced Study and coordinates the development of a new Master’s program in 'Complex Systems and Policy' at the Institute for Interdisciplinary Studies. Previously, Vítor was a visiting research scholar at the Andlinger Center for Energy and the Environment and the Princeton Institute for International and Regional Studies, where he also did two postdocs after finishing his PhD in physics.
+  </p>
+</div>
+
 <div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/liesbeth.jpg" width="25%"/>
   <p>Liesbeth van Tongeren is a prominent Dutch politician and environmental advocate known for her commitment to sustainability and social justice. Formerly a member of the Dutch House of Representatives for the GreenLeft party, Liesbeth focused on climate policy, energy transition, and environmental law. With a background in law and extensive experience in environmental organizations, including as a former director of Greenpeace, she has been instrumental in shaping progressive climate policies in the Netherlands. After her time in Parliament, Liesbeth continued her advocacy as an alderperson in The Hague, where she worked on local initiatives to promote energy efficiency, green urban development, and social inclusion.
   </p>
