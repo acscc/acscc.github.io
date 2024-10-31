@@ -16,6 +16,12 @@ Below you find a list of confirmed speakers. More to come!
   </p>
 </div>
 
+
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/doyne.png" width="25%"/>
+  <p><a href='https://scholar.google.nl/citations?user=Rk7g1U0AAAAJ&hl=en&oi=ao'>Doyne Farmer</a> is Director of the Complexity Economics programme at the Institute for New Economic Thinking at University of Oxford, External Professor at the Santa Fe Institute, and Chief Scientist at Macrocosm. He has made foundational contributions to chaos theory and is renowned for his pioneering work in complexity economics, financial stability, and technological progress, especially as they relate to a low-carbon future. As a graduate student, he built the first wearable computer to successfully beat the game of roulette and later founded Prediction Company, one of the first quantitative automated trading firms. Doyne’s book, <i>Making Sense of Chaos: A Better Economics for a Better World</i>, published in 2024, synthesizes his journey from chaos theory to building innovative frameworks for a more resilient and equitable economy.
+  </p>
+</div>
+
 <div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/vitor.png" width="25%"/>
   <p><a href='https://www.vvvasconcelos.net/'>Vítor Vasconcelos</a> is Assistant Professor at the Computational Science Lab at the University of Amsterdam. He works on mathematical and computational models of human collective behavior to anticipate the intended and unintended consequences of interventions in complex social systems. Vítor co-leads the <a href="https://polder.center/">Polder</a> initiative at the Institute for Advanced Study and coordinates the development of a new Master’s program in 'Complex Systems and Policy' at the Institute for Interdisciplinary Studies. Previously, Vítor was a visiting research scholar at the Andlinger Center for Energy and the Environment and the Princeton Institute for International and Regional Studies, where he also did two postdocs after finishing his PhD in physics.
   </p>
