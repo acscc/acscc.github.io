@@ -4,10 +4,6 @@ title:  Program
 ---
 
 
-The complexity school focuses on collaborative work among the participants, but also includes talks, a panel discussion, and tutorials which will be held by researchers, participants, and other climate change stakeholders.
+The complexity school will focus on collaborative work among the participants, but will also include presentations by scientists from various disciplines, former members of parliament, people working on sustainability in a business context, journalists, and artists. There will also be a panel discussion.
 
-A detailed program will be shared once the applications open on Nov 1st.
-
-You can find the program of the previous ACSCC in [Past Editions](https://acscc.nl/past_editions/).
-
-
+<img src="/assets/image24/program.png" width="100%" />
