@@ -3,7 +3,7 @@ layout: page
 title:  Application
 ---
 
-To attend the workshop, we ask all interested individuals to fill out an application form, which will be available here once the applications open. Bear in mind the following dates:
+To attend the workshop, we ask all interested individuals to fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO4l2sE2fEbcpYnyiDRTjJOu8CnjsHAStBAk234Le4Mgr8Dg/viewform?usp=sf_link">this application form</a>. Bear in mind the following dates:
 
 - Start of applications: November 1st, 2024
 - Deadline: January 19th, 2025
