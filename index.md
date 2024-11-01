@@ -13,7 +13,7 @@ The complexity school feature lectures, tutorials, and panel discussions by rese
 - **April 28<sup>th</sup> to May 2<sup>rd</sup> 2025**
 
 ## Applications:
-- Start of applications: November 1st, 2024
+- <a href="https://acscc.nl/application/">Applications are open!</a>
 - Deadline for applications: January 19th, 2025
 - Notification of acceptance: February 1st, 2025
 
