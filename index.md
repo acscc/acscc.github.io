@@ -10,12 +10,12 @@ The **Amsterdam Complexity School on Climate Change (ACSCC)** is a one-week even
 The complexity school feature lectures, tutorials, and panel discussions by researchers, policymakers, representatives of NGOs, activists, and others. **The primary focus of the workshop is for participants to collaboratively tackle challenges related to climate change.** These can span the entire range from highly abstract modeling to solving a concrete problem such as designing a specific intervention or campaign. Project ideas are proposed on the first day by both researchers and non-academic stakeholders. The participants will work collaboratively on these projects throughout the week. While the most typical output of these projects will be research papers, we also encourage other forms of output, such as strategy papers, campaigns, or communication tools.
 
 ## Dates ACSCC 2025:
-- **April 28<sup>th</sup> to May 2<sup>rd</sup> 2025**
+- **April 28<sup>th</sup> to May 2<sup>nd</sup> 2025**
 
 ## Applications:
 - <a href="https://acscc.nl/application/">Applications are open!</a>
-- Deadline for applications: January 19th, 2025
-- Notification of acceptance: February 1st, 2025
+- Deadline for applications: January 19<sup>th</sup>, 2025
+- Notification of acceptance: February 1<sup>st</sup>, 2025
 
 ## Contact
 
