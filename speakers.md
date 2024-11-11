@@ -31,3 +31,8 @@ Below you find a list of confirmed speakers. More to come!
   <p>Liesbeth van Tongeren is a prominent Dutch politician and environmental advocate known for her commitment to sustainability and social justice. Formerly a member of the Dutch House of Representatives for the GreenLeft party, Liesbeth focused on climate policy, energy transition, and environmental law. With a background in law and extensive experience in environmental organizations, including as a former director of Greenpeace, she has been instrumental in shaping progressive climate policies in the Netherlands. After her time in Parliament, Liesbeth continued her advocacy as an alderperson in The Hague, where she worked on local initiatives to promote energy efficiency, green urban development, and social inclusion.
   </p>
 </div>
+
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/pippi.jpg" width="25%"/>
+  <p>Pippi van Ommen is a Dutch climate activist and community organizer dedicated to social and environmental justice. She currently works as a community worker at Stichting Eigenwijks in Amsterdam Nieuw-West, where she focuses on involving local communities in social initiatives. Pippi is also an active member of Extinction Rebellion, where she was responsible for media and communications for many years. Amidst a general lack of progress on climate change, Pippi recognised the need for approaches beyond - or in addition to - civil disobedience to address our deeply interconnected crises. She went on to co-found Deep Canvassing Nederland, a movement that promotes change through meaningful conversations on divisive issues, currently focusing on migration.
+  </p>
+</div>
