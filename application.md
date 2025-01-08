@@ -6,7 +6,7 @@ title:  Application
 To attend the workshop, we ask all interested individuals to fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO4l2sE2fEbcpYnyiDRTjJOu8CnjsHAStBAk234Le4Mgr8Dg/viewform?usp=sf_link">this application form</a>. Bear in mind the following dates:
 
 - Start of applications: November 1st, 2024
-- Deadline: January 19th, 2025
+- Deadline: January 26th, 2025
 - Notification of acceptance: February 1st, 2025
 
 We aim for an inclusive event where a set of diverse and highly motivated young researchers and other climate change stakeholders can come together. We aim for about 40 participants.

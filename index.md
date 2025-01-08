@@ -14,7 +14,7 @@ The complexity school feature lectures, tutorials, and panel discussions by rese
 
 ## Applications:
 - <a href="https://acscc.nl/application/">Applications are open!</a>
-- Deadline for applications: January 19<sup>th</sup>, 2025
+- Deadline for applications: January 26<sup>th</sup>, 2025
 - Notification of acceptance: February 1<sup>st</sup>, 2025
 
 ## Contact
