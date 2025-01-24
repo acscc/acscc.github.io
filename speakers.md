@@ -36,3 +36,16 @@ Below you find a list of confirmed speakers. More to come!
   <p>Pippi van Ommen is a Dutch climate activist and community organizer dedicated to social and environmental justice. She currently works as a community worker at Stichting Eigenwijks in Amsterdam Nieuw-West, where she focuses on involving local communities in social initiatives. Pippi is also an active member of Extinction Rebellion, where she was responsible for media and communications for many years. Amidst a general lack of progress on climate change, Pippi recognised the need for approaches beyond - or in addition to - civil disobedience to address our deeply interconnected crises. She went on to co-found Deep Canvassing Nederland, a movement that promotes change through meaningful conversations on divisive issues, currently focusing on migration.
   </p>
 </div>
+
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/heleen.jpg" width="25%"/>
+  <p> Heleen Ekker is a leading Dutch climate journalist.
+  Having worked as a senior editor for NOS, the largest public broadcaster in the Netherlands,
+  for over twenty years, Heleen has been instrumental in bringing complex environmental issues to the forefront 
+  of public debate in the Netherlands. Currently, Heleen works as a journalist and climate specialist at RTL Nieuws.
+  In addition to her journalism, Heleen is the co-author of influential books such as <i>De Gaskolonie</i>,
+  which explores the challenges of the Netherlands' reliance on natural gas, and <i>Gevoelstemperatuur</i>,
+  which examines the societal impacts of climate change. Through her work,
+  Heleen has established herself as a trusted voice in climate communication, translating scientific insights
+  into accessible and actionable information for a broad audience.
+  </p>
+</div>
