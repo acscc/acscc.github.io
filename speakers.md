@@ -32,10 +32,6 @@ Below you find a list of confirmed speakers. More to come!
   </p>
 </div>
 
-<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/pippi.jpg" width="25%"/>
-  <p>Pippi van Ommen is a Dutch climate activist and community organizer dedicated to social and environmental justice. She currently works as a community worker at Stichting Eigenwijks in Amsterdam Nieuw-West, where she focuses on involving local communities in social initiatives. Pippi is also an active member of Extinction Rebellion, where she was responsible for media and communications for many years. Amidst a general lack of progress on climate change, Pippi recognised the need for approaches beyond - or in addition to - civil disobedience to address our deeply interconnected crises. She went on to co-found Deep Canvassing Nederland, a movement that promotes change through meaningful conversations on divisive issues, currently focusing on migration.
-  </p>
-</div>
 
 <div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/heleen.jpg" width="25%"/>
   <p> Heleen Ekker is a leading Dutch climate journalist.
@@ -47,5 +43,15 @@ Below you find a list of confirmed speakers. More to come!
   which examines the societal impacts of climate change. Through her work,
   Heleen has established herself as a trusted voice in climate communication, translating scientific insights
   into accessible and actionable information for a broad audience.
+  </p>
+</div>
+
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/pippi.jpg" width="25%"/>
+  <p>Pippi van Ommen is a Dutch climate activist and community organizer dedicated to social and environmental justice. She currently works as a community worker at Stichting Eigenwijks in Amsterdam Nieuw-West, where she focuses on involving local communities in social initiatives. Pippi is also an active member of Extinction Rebellion, where she was responsible for media and communications for many years. Amidst a general lack of progress on climate change, Pippi recognised the need for approaches beyond - or in addition to - civil disobedience to address our deeply interconnected crises. She went on to co-found Deep Canvassing Nederland, a movement that promotes change through meaningful conversations on divisive issues, currently focusing on migration.
+  </p>
+</div>
+
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/lydia.jpg" width="25%"/>
+  <p> Lydia Baan Hofman is a climate philosopher and advisor at the Netherlands Scientific Climate Council. This council provides solicited and unsolicited advise to government and parliament on climate policy. Before working as an advisor, Lydia wrote her dissertation in the field of (feminist) science and technology studies and social philosophy. She has a passion for education and bringing philosophy to a broader audience.
   </p>
 </div>
