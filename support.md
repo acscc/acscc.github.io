@@ -3,7 +3,12 @@ layout: page
 title:  Support
 ---
 
-<div align="center">
-[<img src="/assets/image/sponsors/IAS.jpg" width="60%"/>](https://ias.uva.nl/) 
-[<img src="/assets/image24/Polder-Logo.png" width="60%"/>](https://polder.center/) 
+<div style="text-align: center;">
+
+<a href="(https://ias.uva.nl/"><img src="/assets/image/sponsors/IAS.jpgg" width="60%"/></a>
+
+<br>
+
+<a href="https://polder.center/"><img src="/assets/image24/Polder-Logo.png" width="60%"/></a>
+
 </div>
