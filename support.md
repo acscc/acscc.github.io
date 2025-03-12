@@ -5,7 +5,7 @@ title:  Support
 
 <div style="text-align: center;">
 
-<a href="(https://ias.uva.nl/"><img src="/assets/image/sponsors/IAS.jpg" width="60%"/></a>
+<a href="https://ias.uva.nl/"><img src="/assets/image/sponsors/IAS.jpg" width="60%"/></a>
 
 <br>
 
