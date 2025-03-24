@@ -27,6 +27,11 @@ Below you find a list of confirmed speakers. More to come!
   </p>
 </div>
 
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/ben.webp" width="25%"/>
+  <p><a href='https://www.smithschool.ox.ac.uk/person/dr-benjamin-franta'>Ben Franta</a> is a Senior Research Fellow in Climate Litigation at the Oxford Sustainable Law Programme and the founding head of the Climate Litigation Lab. His research focuses on applying rigorous methods to practical challenges presented by climate litigation worldwide and has been published in <i>Nature Climate Change</i> and <i>The Guardian</i> among others, translated into 10 languages, and cited in the US Congressional Record. Ben holds a PhD in Applied Physics from Harvard University, a separate PhD in History from Stanford University, a JD from Stanford Law School, an MSc in Archaeological Science from the University of Oxford. He is also a licensed attorney and a member of the State Bar of California.
+  </p>
+</div>
+
 <div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/liesbeth2.png" width="25%"/>
   <p>Liesbeth van Tongeren is a prominent Dutch politician and environmental advocate known for her commitment to sustainability and social justice. Formerly a member of the Dutch House of Representatives for the GreenLeft party, Liesbeth focused on climate policy, energy transition, and environmental law. With a background in law and extensive experience in environmental organizations, including as a former director of Greenpeace, she has been instrumental in shaping progressive climate policies in the Netherlands. After her time in Parliament, Liesbeth continued her advocacy as an alderperson in The Hague, where she worked on local initiatives to promote energy efficiency, green urban development, and social inclusion.
   </p>
