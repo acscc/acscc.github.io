@@ -11,4 +11,5 @@ title:  Support
 
 <a href="https://polder.center/"><img src="/assets/image24/Polder-Logo.png" width="60%"/></a>
 
+We are also supported by <a href="https://seven.uva.nl/"SEVEN</a>, the climate institute of the University of Amsterdam.
 </div>

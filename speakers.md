@@ -60,3 +60,15 @@ Below you find a list of confirmed speakers. More to come!
   <p> Lydia Baan Hofman is a climate philosopher and advisor at the Netherlands Scientific Climate Council. This council provides solicited and unsolicited advise to government and parliament on climate policy. Before working as an advisor, Lydia wrote her dissertation in the field of (feminist) science and technology studies and social philosophy. She has a passion for education and bringing philosophy to a broader audience.
   </p>
 </div>
+
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/agat.png" width="25%"/>
+  <p>Agat Sharma is an artist, educator and theatre maker. Agat is currently engaged in a long term research about the history of cotton conducting theatrical experiments exploring cotton's pre-colonial legacy, colonial extractivism and the ongoing agrarian crisis in India. His work prominently features themes examining the emergence, evolution and erasure of the relationship between land and the body. He works with an expanded notion of what a song and a story can be and employs them as tools for evoking collective postcolonial imaginaries. Agat works between the Netherlands and India. 
+  </p>
+</div>
+
+
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/laura.png" width="25%"/>
+  <p>
+  Laura Cull Ó Maoilearca is Professor of Performance Philosophy at the University of Amsterdam and Lector for the Academy of Theatre and Dance, Amsterdam University of the Arts. She jointly leads the artistic research program <a href="https://www.climateimaginariesatsea.org/">Climate Imaginaries at Sea</a> which speculates possible futures in and around water through various artistic and participatory research practices. She is also an alliance lead for the emerging consortium Imagining Climate Justice in Minor Key with over 100 partners and a member of a cross-institutional group working to get Regenerative Art Education on the national sector agenda for higher professional education in the arts (KUO). Her own research focuses on transformative encounters between performance, philosophy and nonhuman animals including in her latest book: Interspecies Performance (2024) co-edited with Florence Fitzgerald-Allsopp. 
+  </p>
+</div>
