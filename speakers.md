@@ -72,3 +72,9 @@ Below you find a list of confirmed speakers. More to come!
   Laura Cull Ó Maoilearca is Professor of Performance Philosophy at the University of Amsterdam and Lector for the Academy of Theatre and Dance, Amsterdam University of the Arts. She jointly leads the artistic research program <a href="https://www.climateimaginariesatsea.org/">Climate Imaginaries at Sea</a> which speculates possible futures in and around water through various artistic and participatory research practices. She is also an alliance lead for the emerging consortium Imagining Climate Justice in Minor Key with over 100 partners and a member of a cross-institutional group working to get Regenerative Art Education on the national sector agenda for higher professional education in the arts (KUO). Her own research focuses on transformative encounters between performance, philosophy and nonhuman animals including in her latest book: Interspecies Performance (2024) co-edited with Florence Fitzgerald-Allsopp. 
   </p>
 </div>
+
+<div style="overflow: hidden; margin-top: 40px;">
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/erika.jpg" width="25%"/>
+  <p><a href='https://www.linkedin.com/in/erikavanderlinden'>Erika van der Linden</a> holds a Master's degree in Systems Engineering and is doing her PhD at Radboud University on how firms are (and are not) contributing to the sustainable development goals. She also works as a policymaker at the Ministry for Economic Affairs and Climate, where she focuses on the strategy for the Dutch energy transition, called the Dutch National Energy Plan ('nationaal plan energiesysteem').
+  </p>
+</div>
