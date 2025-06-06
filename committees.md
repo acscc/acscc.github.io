@@ -13,4 +13,5 @@ You can contact us at [acscc.info@protonmail.com](mailto:acscc.info@protonmail.c
 |[Jonas Haslbeck](https://jonashaslbeck.com/)|[Karoline Huth](https://karolinehuth.github.io/)|
 |:-------------------------:|:-------------------------:|
 |<img src="/assets/image23/committee/jonas.jpg" height="120px"  />| <img src="/assets/image23/committee/KarolineHuth_vertical.jpg" height="120px"  />|
-| Psychological Methods, <br> University of Amsterdam;<br>  Faculty of Psychology and Neuroscience, <br> Maastricht University | Department of Health Promotion (CAPHRI), <br> Maastricht University; <br> Psychological Methods, <br> University of Amsterdam |
+| Psychological Methods, <br> University of Amsterdam | Department of Health Promotion (CAPHRI), <br> Maastricht University; <br> Psychological Methods, <br> University of Amsterdam |
+
