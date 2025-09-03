@@ -3,12 +3,12 @@ layout: page
 title:  Application
 ---
 
-To attend the workshop, we ask all interested individuals to fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO4l2sE2fEbcpYnyiDRTjJOu8CnjsHAStBAk234Le4Mgr8Dg/viewform?usp=sf_link">this application form</a>. Bear in mind the following dates:
+To attend the workshop, we ask all interested individuals to fill out an application form. Bear in mind the following dates:
 
-- Start of applications: *will be announced in early September*
-- Deadline: *will be announced in early September*
-- Extended Deadline: *will be announced in early September*
-- Notification of acceptance: *will be announced in early September*
+- Start of applications: *TBA*
+- Deadline: *TBA*
+- Extended Deadline: *TBA*
+- Notification of acceptance: *TBA*
 
 We aim for an inclusive event where a set of diverse and highly motivated young researchers and other climate change stakeholders can come together. We accept 40 participants.
 
