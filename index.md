@@ -13,7 +13,7 @@ The complexity school feature lectures, tutorials, and panel discussions by rese
 - **April 27<sup>th</sup> to May 1<sup>nd</sup> 2026**
 
 ## Applications:
-- Dates for Applications for the 2026 edition will be announced in early September.
+- Dates for Applications for the 2026 edition will be announced in early October.
 
 ## Contact
 
