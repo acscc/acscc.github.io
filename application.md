@@ -3,17 +3,15 @@ layout: page
 title:  Application
 ---
 
-To attend the workshop, we ask all interested individuals to fill out [[this application form]](https://forms.gle/Nr8S6KuyRUE1Fcgb8). Bear in mind the following dates:
+To attend the workshop, we ask all interested individuals to fill out [this application form](https://forms.gle/Nr8S6KuyRUE1Fcgb8). Bear in mind the following dates:
 
 - Start of applications: November 3rd, 2025
 - Deadline: before January 19th, 2026
 - Notification of acceptance: February 5th, 2025
 
-We aim for an inclusive event where a set of diverse and highly motivated young researchers and other climate change stakeholders can come together. We accept 40 participants.
+We aim for an inclusive event where a set of diverse and highly motivated young researchers and other climate change stakeholders can come together. We accept 40 participants. 
 
-## Registration
-
-The registration fee includes:
+The participation fee of 500EUR includes:
 - Accommodation from Sunday to Friday (5 nights)
 - Breakfast at the accommodation
 - Lunch and coffee breaks at the workshop location
