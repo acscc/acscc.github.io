@@ -6,6 +6,7 @@ title:  Speakers
 Below you find a list of confirmed speakers. More to come!
 
 
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image25/julia.jpg" width="25%"/>
 <div>
     <p><a href='https://en.wikipedia.org/wiki/Julia_Steinberger'>Julia Steinberger</a> travelled through physics and industrial ecology before landing as an ecological economist. As Professor of Societal Challenges of Climate Change at the University of Lausanne, she explores the relationship between energy use and social outcomes, how much energy is required for decent living, and how provisioning systems can deliver better outcomes with less energy. She was a recipient of a Leverhulme Research leadership Award for her research project <a href="https://lili.leeds.ac.uk/">'Living Well Within Limits'</a>, investigating how universal human well-being might be achieved within planetary boundaries, and currently co-leads the ERC Synergy Grant <a href="https://www.realpostgrowth.eu/">'REAL: A Post-growth Deal'</a>, advancing scientific research for realising post-growth transformations. Julia was Lead Author for the IPCC’s 6th Assessment Report with Working Group 3.
     </p>
@@ -22,12 +23,12 @@ Below you find a list of confirmed speakers. More to come!
 </div>
 
 <div style="overflow: hidden; margin-top: 40px;">
-  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/kornelia.jpeg" width="25%"/>
+  <img style="float: left; margin-right: 20px;" src="/assets/image25/clare.jpg" width="25%"/>
   <p><a href='https://www.linkedin.com/in/clare-farrell-52839b41/'>Clare Farrell</a> is a designer and co-founder of Extinction Rebellion, devoting her creativity, energy, and occasionally her personal liberty to fight against climate and environmental breakdown. She coordinated the creative team that delivered the name, identity, and messaging that Extinction Rebellion set out with in 2018. Clare is currently a stragist at <a href="https://www.absurdintelligence.com/">Absurd Intelligence</a>, which is convening and catalyzing a network of interdisciplinary experts to create a mass arts and culture movement that unites us in a desire to build a better world. She is also involved with the <a href="https://www.humanityproject.uk/">Humanity Project</a>, working to create a new democratic culture for the UK to face the 21st century.
 </p>
 </div>
 
 <div style="overflow: hidden; margin-top: 40px;">
-  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/kornelia.jpeg" width="25%"/>
+  <img style="float: left; margin-right: 20px;" src="/assets/image23/speakers/rachel.jpg" width="25%"/>
   <p><a href='https://www.linkedin.com/in/rachel-donald/'>Rachel Donald</a> is the creator of <a href="https://www.planetcritical.com/">Planet: Critical</a>, the podcast and newsletter for a world in crisis with 34,000+ subscribers from 186 countries. Planet: Critical connects the dots of science, art, language, politics, media, philosophy and power to reveal the big picture. Rachel is also the founder of <a href="https://www.planetcoordinate.com/">Planet: Coordinate</a>, a documentary series investigating what to do for a world in crisis. Rachel's world exclusive investigations into climate corruption have been published in The Guardian, Al Jazeera, Mongabay, The Intercept, Byline Times and the New Republic.</p>
 </div>
