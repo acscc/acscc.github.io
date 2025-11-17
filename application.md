@@ -7,7 +7,7 @@ To attend the workshop, we ask all interested individuals to fill out [this appl
 
 - Start of applications: November 3rd, 2025
 - Deadline: before January 19th, 2026
-- Notification of acceptance: February 5th, 2025
+- Notification of acceptance: February 5th, 2026
 
 We aim for an inclusive event where a set of diverse and highly motivated young researchers and other climate change stakeholders can come together. We accept 40 participants. 
 
