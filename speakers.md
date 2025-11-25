@@ -6,6 +6,12 @@ title:  Speakers
 Below you find a list of confirmed speakers. More to come!
 
 
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image25/PhilippeLamberts.png" width="25%"/>
+<div>
+    <p><a href='https://en.wikipedia.org/wiki/Philippe_Lamberts'>Philippe Lamberts</a> is a Belgian Green politician who has served in the European Parliament since 2009 and is currently an adviser to the President of the European Commission on meeting the EU’s 2030 climate targets and advancing climate neutrality by 2050. In Parliament, his work includes helping secure an amendment to the Fourth Capital Requirements Directive that capped financial-sector bonuses, pushing for the 2015 parliamentary inquiry into tax rulings and preferential corporate treatment, and serving on the Brexit Steering Group coordinating the EU’s response to the UK’s withdrawal. As co-President of the Greens/European Free Alliance group from 2014 onward, he played a central role in shaping the group’s economic, industrial and climate agenda at the European level.
+    </p>
+</div>
+
 <div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image25/julia.jpg" width="25%"/>
 <div>
     <p><a href='https://en.wikipedia.org/wiki/Julia_Steinberger'>Julia Steinberger</a> travelled through physics and industrial ecology before landing as an ecological economist. As Professor of Societal Challenges of Climate Change at the University of Lausanne, she explores the relationship between energy use and social outcomes, how much energy is required for decent living, and how provisioning systems can deliver better outcomes with less energy. She was a recipient of a Leverhulme Research leadership Award for her research project <a href="https://lili.leeds.ac.uk/">'Living Well Within Limits'</a>, investigating how universal human well-being might be achieved within planetary boundaries, and currently co-leads the ERC Synergy Grant <a href="https://www.realpostgrowth.eu/">'REAL: A Post-growth Deal'</a>, advancing scientific research for realising post-growth transformations. Julia was Lead Author for the IPCC’s 6th Assessment Report with Working Group 3.
