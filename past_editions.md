@@ -3,7 +3,7 @@ layout: page
 title:  Past Editions
 ---
 
-The **Amsterdam Complexity School on Climate Change (ACSCC)** took twice in 2024 and 2025. Below you find some photos, the program, and the list of speakers the first two editions.
+The **Amsterdam Complexity School on Climate Change (ACSCC)** took place twice, in 2024 and 2025. Below you find some photos, the program, and the list of speakers the first two editions.
 # ACSCC 2025
 
 ## Group Photo ACSCC 2025
