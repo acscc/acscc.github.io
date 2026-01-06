@@ -14,7 +14,7 @@ The complexity school feature lectures, tutorials, and panel discussions by rese
 
 ## Applications:
 - Opening of Application: November 3rd, 2025
-- Closing of Application: January 19th, 2026
+- Closing of Application: January 26th, 2026
 - Notification of Acceptance: February 5th, 2026
 
 ## Contact
