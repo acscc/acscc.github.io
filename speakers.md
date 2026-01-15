@@ -33,6 +33,11 @@ Below you find a list of confirmed speakers. More to come!
   </p>
 </div>
 
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image25/speakers/kristian.jpg" width="25%"/>
+  <p><a href="https://www.kristiansteensen.com/">Kristian S. Nielsen</a> is an Assistant Professor at the Department of Management, Society and Communication, Copenhagen Business School. His research focuses on the role of behavior change in mitigating climate change and conserving biodiversity. Kristian is particularly interested in how individual behavior changes can help limit climate change, in identifying effective, scalable behavior change interventions, and in increasing the feasibility of transformative climate initiatives. His research is rooted in quantitative environmental psychology and behavioral science, but with an interdisciplinary outlook. Before joining Copenhagen Business School, Kristian was a postdoctoral researcher in the Departments of Psychology and Zoology at the University of Cambridge.
+  </p>
+</div>
+
 <div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image25/clare.jpg" width="25%"/>
   <p><a href='https://www.linkedin.com/in/clare-farrell-52839b41/'>Clare Farrell</a> is a designer and co-founder of Extinction Rebellion, devoting her creativity, energy, and occasionally her personal liberty to fight against climate and environmental breakdown. She coordinated the creative team that delivered the name, identity, and messaging that Extinction Rebellion set out with in 2018. Clare is currently a stragist at <a href="https://www.absurdintelligence.com/">Absurd Intelligence</a>, which is convening and catalyzing a network of interdisciplinary experts to create a mass arts and culture movement that unites us in a desire to build a better world. She is also involved with the <a href="https://www.humanityproject.uk/">Humanity Project</a>, working to create a new democratic culture for the UK to face the 21st century.
