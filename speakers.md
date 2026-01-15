@@ -33,7 +33,7 @@ Below you find a list of confirmed speakers. More to come!
   </p>
 </div>
 
-<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image25/speakers/kristian.jpg" width="25%"/>
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image25/kristian.jpg" width="25%"/>
   <p><a href="https://www.kristiansteensen.com/">Kristian S. Nielsen</a> is an Assistant Professor at the Department of Management, Society and Communication, Copenhagen Business School. His research focuses on the role of behavior change in mitigating climate change and conserving biodiversity. Kristian is particularly interested in how individual behavior changes can help limit climate change, in identifying effective, scalable behavior change interventions, and in increasing the feasibility of transformative climate initiatives. His research is rooted in quantitative environmental psychology and behavioral science, but with an interdisciplinary outlook. Before joining Copenhagen Business School, Kristian was a postdoctoral researcher in the Departments of Psychology and Zoology at the University of Cambridge.
   </p>
 </div>
