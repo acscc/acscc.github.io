@@ -12,11 +12,6 @@ Below you find a list of confirmed speakers. More to come!
     </p>
 </div>
 
-<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/joyeeta.png" width="25%"/>
-  <p><a href='https://scholar.google.nl/citations?user=LtjhLZAAAAAJ&hl=en&oi=ao'>Joyeeta Gupta</a> is Professor of Environment and Development in the Global South at the University of Amsterdam and IHE Delft Institute for Water Education. Her work centers on climate justice, equity, and sustainable development, with a particular focus on the impacts of climate change on vulnerable populations and ecosystems. Joyeeta’s research is deeply influenced by her background in law and her commitment to addressing power imbalances in global environmental governance. She has written four books on climate change and global governance and was a lead author on the fourth IPCC report. She co-chaired the Earth Commission, a body that aims to define safe and just boundaries for a thriving planet, and was a recipient of the "Dutch Nobel Prize" (the Spinoza Prize) in 2023.
-  </p>
-</div>
-
 <div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image25/PhilippeLamberts.png" width="25%"/>
 <div>
     <p><a href='https://en.wikipedia.org/wiki/Philippe_Lamberts'>Philippe Lamberts</a> is a Belgian Green politician who served as a Member of the European Parliament from 2009 to 2024. During his tenure, he helped secure an amendment to the Fourth Capital Requirements Directive that capped financial-sector bonuses, pushed for the 2015 parliamentary inquiry into tax rulings and preferential corporate treatment, and served on the Brexit Steering Group coordinating the EU’s response to the UK’s withdrawal. As co-President of the Greens/European Free Alliance group from 2014 to 2024, he played a central role in shaping the group’s economic, industrial and climate agenda at the European level. Since leaving Parliament, he has continued to work on EU climate and economic policy, including advising on efforts to meet the EU’s 2030 climate targets and advance climate neutrality by 2050.
