@@ -12,6 +12,12 @@ Below you find a list of confirmed speakers. More to come!
     </p>
 </div>
 
+<div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image25/michiel.jpg" width="25%"/>
+<div>
+    <p><a href='https://climateanalytics.org/team/michiel-schaeffer'>Michiel Schaeffer</a> is co-founder and Chief Scientist at Climate Analytics. He has over 20 years of experience and expertise in climate modelling and climate impact science, energy-system analysis, mitigation and adaptation, and providing scientific advice at the climate-policy interface for both developing and developed countries. Michiel focuses on expanding Climate Analytics’ research and expertise, and helps bring together the scientific assessments with the policy applications across Climate Analytics. He is an author of, among others, UNEP Emissions and Adaptation Gap reports, World Bank Turn Down the Heat reports, the IPCC’s Fifth Assessment Report and many peer-reviewed scientific studies. He received his PhD in Dynamic Meteorology and is affiliated with the International Islamic University of Indonesia and the Copernicus Institute for Sustainable Development at Utrecht University.
+    </p>
+</div>
+
 <div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image25/PhilippeLamberts.png" width="25%"/>
 <div>
     <p><a href='https://en.wikipedia.org/wiki/Philippe_Lamberts'>Philippe Lamberts</a> is a Belgian Green politician who served as a Member of the European Parliament from 2009 to 2024. During his tenure, he helped secure an amendment to the Fourth Capital Requirements Directive that capped financial-sector bonuses, pushed for the 2015 parliamentary inquiry into tax rulings and preferential corporate treatment, and served on the Brexit Steering Group coordinating the EU’s response to the UK’s withdrawal. As co-President of the Greens/European Free Alliance group from 2014 to 2024, he played a central role in shaping the group’s economic, industrial and climate agenda at the European level. Since leaving Parliament, he has continued to work on EU climate and economic policy, including advising on efforts to meet the EU’s 2030 climate targets and advance climate neutrality by 2050.
