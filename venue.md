@@ -22,7 +22,7 @@ One of the working rooms of the workshop.
 
 This year, the Dutch public holiday King's day falls on the first day (Monday 27th) of ACSCC, during which the city center is turned into one big street party. To avoid the crowds and the noise, we will have the first day of the workshop at De Sering, a beautiful community space in the Amsterdam West. In order to allow participants to arrive on time, we start the program a bit later (9h30) on Monday. For more information about De Sering see [here](https://desering.org/).
 
-<img src="/assets/image26/desering.jepg" width="80%" />
+<img src="/assets/image23/desering.jpg" width="80%" />
 
 #### Travel information De Sering:
 
