@@ -3,8 +3,6 @@ layout: page
 title:  Speakers
 ---
 
-Below you find a list of confirmed speakers. More to come!
-
 
 <div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image25/julia.jpg" width="25%"/>
 <div>
