@@ -9,7 +9,7 @@ The **Amsterdam Complexity School on Climate Change (ACSCC)** took place three t
 
 ## Group Photo ACSCC 2026
 
-<img src="/assets/2026/group_picture2026.jpg" width="80%" />
+<img src="/assets/image26/group_picture2026.jpg" width="80%" />
 
 ## Program ACSCC 2026
 
