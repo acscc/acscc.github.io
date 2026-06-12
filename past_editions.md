@@ -7,20 +7,19 @@ The **Amsterdam Complexity School on Climate Change (ACSCC)** took place three t
 
 # ACSCC 2026
 
-## Group Photo ACSCC 2026
+## Group Photo
 
-<img src="/assets/image26/group_picture2026.jpg" width="80%" />
+<img src="/assets/image26/group_picture2026.jpg" width="100%" />
 
-## Program ACSCC 2026
+## Program
 
 <img src="/assets/image25/program2026.png" width="100%" />
 
-## Projects ACSCC 2026
+## Projects
 
 Projects included work on (mis)perceptions of climate beliefs, how to prevent maladaptation, how social power influences social tipping, the facts, misinformation, and local costs of data centers, climate delay discourses in the media, what insurance can learn from the resilience of ecosystems, targeting leverage points to transform energy and food systems, and a poetic reflection on solidarity beyond the "I" — rethinking how we talk and think about nature.
 
-
-## Speakers ACSCC 2026
+## Speakers
 
 <div style="overflow: hidden; margin-top: 40px;"> <img style="float: left; margin-right: 20px;" src="/assets/image25/julia.jpg" width="25%"/>
 <div>
@@ -71,22 +70,24 @@ Projects included work on (mis)perceptions of climate beliefs, how to prevent ma
   <p><a href='https://www.linkedin.com/in/harri%C3%ABt-bergman-374b458a/'> Harriët Bergman </a> is a philosopher, researcher, and activist working on climate justice, political emotions, and social change. She completed her PhD at the University of Antwerp, where her research examined the role of privilege in climate justice activism, with a focus on emotions, narratives, strategies, and radicality. Her research interests include political emotions, ecofascism, activism, and social change. She is currently working on a popular philosophy book on different conceptions of violence for ISVW Uitgeverij. She is a member of Climate Obstruction NL, a network of researchers and academics investigating the fossil fuel industry’s ongoing efforts to maintain business as usual and obstruct meaningful climate action. In addition, she works as a coordinator, coach, and workshop developer at Stroomversnellers, a trainers’ collective that supports social movements.</p>
 </div>
 
+<hr>
+
 
 # ACSCC 2025
 
-## Group Photo ACSCC 2025
+## Group Photo
 
-<img src="/assets/2025/ACSCC_Group_Picture_2025.jpg" width="80%" />
+<img src="/assets/2025/ACSCC_Group_Picture_2025.jpg" width="100%" />
 
-## Program ACSCC 2025
+## Program
 
 <img src="/assets/image24/program.png" width="100%" />
 
-## Projects ACSCC 2025
+## Projects
 
 Projects included analyzing insurance risks caused by impacts of climate change and how they can be leveraged for climate action, evaluating an updated framework for evaluating (EU) sustainable investments, developing a framework for analyzing climate change security risks, creating an agent based model of heat pump adoption with an illustration case in Switzerland, the various impacts of the super rich on the climate crisis, disinformation campaigns with the example of conspiracy theories around the 10-minute city, and analyzing commodity-based versus nature-based governance models for natural areas.
 
-## Speakers ACSCC 2025
+## Speakers
 
 <div style="overflow: hidden; margin-top: 40px;">
   <img style="float: left; margin-right: 20px;" src="/assets/image24/speakers/tim.jpg" width="25%"/>
@@ -162,18 +163,23 @@ Projects included analyzing insurance risks caused by impacts of climate change 
   </p>
 </div>
 
+
+<hr>
+
+
+
 # ACSCC 2024
 
-## Group Photo ACSCC 2024
+## Group Photo
 
 <img src="/assets/2025/GroupPicture_ACSCC24.JPG" width="80%" />
 
 
-## Program ACSCC 2024
+## Program
 
 <img src="/assets/image23/program.png" width="100%" />
 
-## Projects ACSCC 2024
+## Projects
 
 Projects included mapping the pillars of support for the fossil fuel industry in order to develop effective ways to 'defeat the fossil Goliath', analyzing what the media emphasizes (e.g. technological solutions or climate justice) when reporting on the IPCC reports, trying to better understand the impact of celebrities such as Taylor Swift taking climate action, 'hacking' the food system to become more sustainable, building a web app that allows citizens to understand the carbon footprint of various activities in the city they live in, and conceptualizing the good life and how to achieve it.
 
