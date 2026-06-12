@@ -169,7 +169,7 @@ Projects included analyzing insurance risks caused by impacts of climate change 
 
 ## Group Photo
 
-<img src="/assets/2025/GroupPicture_ACSCC24.JPG" width="80%" />
+<img src="/assets/2025/GroupPicture_ACSCC24.JPG" width="100%" />
 
 
 ## Program
