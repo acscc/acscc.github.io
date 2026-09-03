@@ -72,6 +72,7 @@ or write us directly using the following information.
     </h3>
     <img src="/assets/committee/adam.jpeg" alt="Adam Finnemann">
     <p>
+      Postdoctoral Researcher<br>
       Centre for Urban Mental Health<br>
       University of Amsterdam
     </p>
@@ -109,6 +110,7 @@ or write us directly using the following information.
     </h3>
     <img src="/assets/committee/karoline.jpg" alt="Karoline Huth">
     <p>
+      Postdoctoral Researcher<br>
       Department of Health Promotion<br>
       Maastricht University;<br>
       Psychological Methods<br>
