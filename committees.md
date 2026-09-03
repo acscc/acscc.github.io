@@ -62,7 +62,7 @@ or write us directly using the following information.
       Assistant Professor<br>
       Department of Psychological and Behavioural Science<br>
       Global School of Sustainability<br>
-      London School of Economics
+      London School of Economics and Political Science
     </p>
   </div>
 
