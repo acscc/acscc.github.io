@@ -70,7 +70,7 @@ or write us directly using the following information.
     <h3>
       <a href="https://afinnemann.github.io/">Adam Finnemann</a>
     </h3>
-    <img src="/assets/committee/adam.jpg" alt="Adam Finnemann">
+    <img src="/assets/committee/adam.jpeg" alt="Adam Finnemann">
     <p>
       Centre for Urban Mental Health<br>
       University of Amsterdam
@@ -95,7 +95,7 @@ or write us directly using the following information.
     <h3>
       <a href="https://jonashaslbeck.com/">Jonas Haslbeck</a>
     </h3>
-    <img src="/assets/committee/jonas.jpg" alt="Jonas Haslbeck">
+    <img src="/assets/committee/jonas.png" alt="Jonas Haslbeck">
     <p>
       Assistant Professor<br>
       Department of Methodology and Statistics<br>
