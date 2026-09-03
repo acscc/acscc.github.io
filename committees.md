@@ -105,7 +105,7 @@ or write us directly using the following information.
 
   <div class="committee-member">
     <h3>
-      <a href="https://karolinehuth.github.io/">Karoline Huth</a>
+      <a href="https://www.linkedin.com/in/karolinehuth/">Karoline Huth</a>
     </h3>
     <img src="/assets/committee/karoline.jpg" alt="Karoline Huth">
     <p>
