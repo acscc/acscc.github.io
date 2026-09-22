@@ -96,7 +96,7 @@ or write us directly using the following information.
     <h3>
       <a href="https://jonashaslbeck.com/">Jonas Haslbeck</a>
     </h3>
-    <img src="/assets/committee/jonas.png" alt="Jonas Haslbeck">
+    <img src="/assets/committee/jonas.jpg" alt="Jonas Haslbeck">
     <p>
       Assistant Professor<br>
       Department of Methodology and Statistics<br>
