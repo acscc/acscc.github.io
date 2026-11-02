@@ -2,12 +2,22 @@
 layout: page
 title:  Speakers
 ---
+Below are the confirmed speakers; more speakers will be added soon..
+
+---
 
 ## Joyeeta Gupta
 
-<img src="{{ '/assets/image27/joyeeta.png' | relative_url }}" alt="Joyeeta Gupta" width="200">
+<img src="{{ '/assets/image27/joyeeta.png' | relative_url }}" alt="Joyeeta Gupta" width="200" style="float: left; margin: 0 20px 10px 0;">
 
-[Joyeeta Gupta](https://scholar.google.com/citations?user=LtjhLZAAAAAJ&hl=nl) is Professor of Environment and Development in the Global South at the University of Amsterdam and IHE Delft Institute for Water Education. Her work centers on climate justice, equity, and sustainable development, with a particular focus on how changing geopolitics affects vulnerable populations and North-South relations. Joyeeta’s research draws on her background in law and her commitment to addressing power imbalances in Global to Local (Glocal) environmental governance. She has written four books on climate change and global governance and was a lead author on the fourth IPCC report. Currently, she co-chairs the [UN Secretary-General Appointed Group of Ten High-level Representatives of Civil Society, Private Sector and Scientific Community to Promote Science, Technology and Innovation for the SDGs](https://sdgs.un.org/tfm/ten-member-group). Joyeeta co-chaired the Earth Commission (2019-2024) and won the Spinoza Prize (the "Dutch Nobel Prize") in 2023.
+[Joyeeta Gupta](https://scholar.google.com/citations?user=LtjhLZAAAAAJ&hl=nl) is Professor of Environment and Development in the Global South at the University of Amsterdam and IHE Delft Institute for Water Education. Her work centers on climate justice, equity, and sustainable development, with a particular focus on how changing geopolitics affects vulnerable populations and North-South relations. Joyeeta’s research draws on her background in law and her commitment to addressing power imbalances in Global to Local (Glocal) environmental governance. She has written four books on climate change and global governance and was a lead author on the fourth IPCC report. Currently, she co-chairs the [UN Secretary-General Appointed Group](https://sdgs.un.org/tfm/ten-member-group) of Ten High-level Representatives of Civil Society, Private Sector and Scientific Community to Promote Science, Technology and Innovation for the SDGs. Joyeeta co-chaired the Earth Commission (2019-2024) and won the Spinoza Prize (the "Dutch Nobel Prize") in 2023.
+
+---
+## Adam Mckay
+
+<img src="{{ '/assets/image27/adam.jpg' | relative_url }}" alt="Adam Mckay" width="200">
+
+[Adam McKay](https://en.wikipedia.org/wiki/Adam_McKay) is an Academy Award-winning writer, director, and producer known for the 2021 political satire movie Don’t Look Up, as well as movies like Vice (2018) and The Big Short (2015). Along with a notable career in films and television, McKay is also a prominent voice for climate action. He founded [Yellow Dot Studios](https://yellowdotstudios.com/) to raise awareness and mobilize action on the climate emergency. The non-profit company produces videos and campaigns to tackle the misinformation promoted by the oil industry. He has spoken prominently about his experience with climate anxiety and the importance of comedy and humor as tools in addressing the climate crisis, and he has also spoken in support of disruptive climate activism. He is also a part of the Climate Emergency Fund's board of directors
 
 ---
 ## Joana Setzer
@@ -31,12 +41,3 @@ title:  Speakers
 
 [Vítor Vasconcelos](https://www.vvvasconcelos.net/) is an Associate Professor at the Computational Science Lab at the University of Amsterdam. He works on mathematical and computational models of human collective behavior to anticipate the intended and unintended consequences of interventions in complex social systems involving humans, resources, and governing institutions. Vítor co-leads the [Polder](https://polder.center/) initiative at the Institute for Advanced Study and is the Director of a new Master’s program in 'Complex Systems and Policy' at the Institute for Interdisciplinary Studies. Previously, Vítor was a visiting research scholar at the Andlinger Center for Energy and the Environment and the Princeton Institute for International and Regional Studies, where he also did two postdocs after finishing his PhD in physics at the University of Minho, Portugal.
 
----
-## Adam Mckay
-
-<img src="{{ '/assets/image27/adam.jpg' | relative_url }}" alt="Adam Mckay" width="200">
-
-[Adam McKay](https://en.wikipedia.org/wiki/Adam_McKay) is an Academy Award-winning writer, director, and producer known for the 2021 political satire movie Don’t Look Up, as well as movies like Vice (2018) and The Big Short (2015). Along with a notable career in films and television, McKay is also a prominent voice for climate action. He founded [Yellow Dot Studios](https://yellowdotstudios.com/) to raise awareness and mobilize action on the climate emergency. The non-profit company produces videos and campaigns to tackle the misinformation promoted by the oil industry. He has spoken prominently about his experience with climate anxiety and the importance of comedy and humor as tools in addressing the climate crisis, and he has also spoken in support of disruptive climate activism. He is also a part of the Climate Emergency Fund's board of directors
-
----
-More speakers to be updated soon..
