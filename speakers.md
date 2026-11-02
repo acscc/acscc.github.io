@@ -2,9 +2,7 @@
 layout: page
 title:  Speakers
 ---
-Below are the confirmed speakers; more speakers will be added soon..
-
----
+Below are the confirmed speakers, more speakers will be announced soon.
 
 ## Joyeeta Gupta
 
@@ -13,7 +11,7 @@ Below are the confirmed speakers; more speakers will be added soon..
 [Joyeeta Gupta](https://scholar.google.com/citations?user=LtjhLZAAAAAJ&hl=nl) is Professor of Environment and Development in the Global South at the University of Amsterdam and IHE Delft Institute for Water Education. Her work centers on climate justice, equity, and sustainable development, with a particular focus on how changing geopolitics affects vulnerable populations and North-South relations. Joyeeta’s research draws on her background in law and her commitment to addressing power imbalances in Global to Local (Glocal) environmental governance. She has written four books on climate change and global governance and was a lead author on the fourth IPCC report. Currently, she co-chairs the [UN Secretary-General Appointed Group](https://sdgs.un.org/tfm/ten-member-group) of Ten High-level Representatives of Civil Society, Private Sector and Scientific Community to Promote Science, Technology and Innovation for the SDGs. Joyeeta co-chaired the Earth Commission (2019-2024) and won the Spinoza Prize (the "Dutch Nobel Prize") in 2023.
 
 ---
-## Adam Mckay
+## Adam McKay
 
 <img src="{{ '/assets/image27/adam.jpg' | relative_url }}" alt="Adam Mckay" width="200" style="float: left; margin: 0 20px 10px 0;">
 
