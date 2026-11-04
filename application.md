@@ -9,6 +9,8 @@ To attend the workshop, we ask all interested individuals to fill out an applica
 - Deadline: January 24, 2027
 - Notification of acceptance: February 1, 2027
 
+The application form is available [here](https://uva.fra1.qualtrics.com/jfe/form/SV_3fTRL0WKuRPbH14).
+
 We aim for an inclusive event where a set of diverse and highly motivated young researchers and other climate change stakeholders can come together. We accept 40 participants. 
 
 The participation fee of 500EUR includes:
