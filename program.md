@@ -7,4 +7,4 @@ The complexity school will focus on collaborative work among the participants, b
 
 Below is the program and the confirmed speakers for ACSCC 2027. The remaining speakers will be announced in due time.
 
-<img src="/assets/image25/program2027.png" width="100%" />
+<img src="/assets/image27/program2027.png" width="100%" />
