@@ -3,7 +3,7 @@ layout: page
 title:  Application
 ---
 
-To attend the workshop, we ask all interested individuals to fill out an application form in due time. Bear in mind the following dates:
+To attend the workshop, we ask all interested individuals to fill out an application form. Bear in mind the following dates:
 
 - Opening applications: November 2026
 - Deadline: January 24, 2027
