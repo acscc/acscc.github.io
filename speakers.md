@@ -4,7 +4,7 @@ title:  Speakers
 ---
 Below are the confirmed speakers, more speakers will be announced soon.
 
-## Joyeeta Gupta
+## Joyeeta Gupta 
 
 <img src="{{ '/assets/image27/joyeeta.png' | relative_url }}" alt="Joyeeta Gupta" width="200" style="float: left; margin: 0 20px 10px 0;">
 
