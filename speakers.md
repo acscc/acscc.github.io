@@ -39,3 +39,10 @@ Below are the confirmed speakers, more speakers will be announced soon.
 
 [Vítor Vasconcelos](https://www.vvvasconcelos.net/) is an Associate Professor at the Computational Science Lab at the University of Amsterdam. He works on mathematical and computational models of human collective behavior to anticipate the intended and unintended consequences of interventions in complex social systems involving humans, resources, and governing institutions. Vítor co-leads the [Polder](https://polder.center/) initiative at the Institute for Advanced Study and is the Director of a new Master’s program in 'Complex Systems and Policy' at the Institute for Interdisciplinary Studies. Previously, Vítor was a visiting research scholar at the Andlinger Center for Energy and the Environment and the Princeton Institute for International and Regional Studies, where he also did two postdocs after finishing his PhD in physics at the University of Minho, Portugal.
 
+----
+
+## Joyce Kimutai 
+
+<img src="{{ '/assets/image27/joyce.png' | relative_url }}" alt="Joyce Kimutai" width="200" style="float: left; margin: 0 20px 10px 0;">
+
+[Joyce Kimutai ](https://www.agci.org/people/003Nu00000enSH3IAM/joyce-kimutai) is a climate scientist at the World Weather Attribution initiative at Imperial College London and the Kenya Meteorological Department. Her research focuses on understanding how human-induced climate change influences extreme weather events, particularly in Africa, and how scientific evidence can inform climate risk management, adaptation, and policy. She holds a PhD in Attribution of Climate Extremes from the University of Cape Town. Joyce co-chairs the Climate Research Forum Working Group on Loss and Damage and serves on a U.S. National Academy of Sciences committee examining the attribution of extreme weather events and their impacts. She was a Lead Author of the IPCC Special Report on Climate Change and Land and serves as an alternate IPCC Focal Point for Kenya. Beyond her scientific work, she also represents Kenya in international climate negotiations under the United Nations Framework Convention on Climate Change (UNFCCC).
