@@ -3,7 +3,7 @@ layout: page
 title:  Support
 ---
 
-<a href="https://ias.uva.nl/"><img src="/assets/image/sponsors/IAS.jpg" width="40%" style="float: left; margin: 0 20px 10px 0;"></a>
+<a href="https://ias.uva.nl/"><img src="/assets/image/sponsors/IAS.jpg" width="30%" style="float: left; margin: 0 20px 10px 0;"></a>
 
 <p>The Institute for Advanced Study provides in-kind support by hosting ACSCC and providing lunch. They also generously contribute to fund travel grants and additional fee waivers as part of their <a href="https://ias.uva.nl/community/ias-next/ias-next.html">IAS NEXT</a> initiative.</p>
 
