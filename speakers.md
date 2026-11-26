@@ -20,7 +20,8 @@ Below are the confirmed speakers, more speakers will be announced soon.
 ---
 ## Derk Loorbach
 
-<img src="{{ '/assets/image27/derk.jpg' | relative_url }}" alt="Derk Loorbach" width="200" style="float: left; margin: 0 20px 10px 0;">
+<img src="{{ '/assets/image27/derk.png' | relative_url }}" alt="Derk Loorbach" width="200" style="float: left; margin: 0 20px 10px 0;">
+
 <a href="https://drift.eur.nl/en/people/derk-loorbach/">Derk Loorbach</a> is Professor of Socio-economic Transitions at Erasmus University Rotterdam, Director of the <a href="https://drift.eur.nl/en/">Dutch Research Institute for Transitions (DRIFT)</a>, and academic figurehead of the <a href="https://hetkin.nl/">Dutch Climate Research Initiative (KIN)</a>. He is one of the pioneers of transition management, an approach to understanding and governing complex societal transitions towards sustainability. Derk's research focuses on the dynamics of systemic change and how such change can be accelerated through experimentation, collective learning, and the development of alternative institutions and practices. His work bridges science and practice, collaborating with governments, businesses, and civil society to advance sustainability transitions across sectors.
 
 ---
