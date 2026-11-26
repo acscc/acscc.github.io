@@ -18,6 +18,12 @@ Below are the confirmed speakers, more speakers will be announced soon.
 [Adam McKay](https://en.wikipedia.org/wiki/Adam_McKay) is an Academy Award-winning writer, director, and producer known for the 2021 political satire movie Don’t Look Up, as well as movies like Vice (2018) and The Big Short (2015). Along with a notable career in films and television, McKay is also a prominent voice for climate action. He founded [Yellow Dot Studios](https://yellowdotstudios.com/) to raise awareness and mobilize action on the climate emergency. The non-profit company produces videos and campaigns to tackle the misinformation promoted by the oil industry. He has spoken prominently about his experience with climate anxiety and the importance of comedy and humor as tools in addressing the climate crisis, and he has also spoken in support of disruptive climate activism. He is also a part of the Climate Emergency Fund's board of directors
 
 ---
+## Derk Loorbach
+
+<img src="{{ '/assets/image27/derk.jpg' | relative_url }}" alt="Derk Loorbach" width="200" style="float: left; margin: 0 20px 10px 0;">
+<a href="https://drift.eur.nl/en/people/derk-loorbach/">Derk Loorbach</a> is Professor of Socio-economic Transitions at Erasmus University Rotterdam, Director of the <a href="https://drift.eur.nl/en/">Dutch Research Institute for Transitions (DRIFT)</a>, and academic figurehead of the <a href="https://hetkin.nl/">Dutch Climate Research Initiative (KIN)</a>. He is one of the pioneers of transition management, an approach to understanding and governing complex societal transitions towards sustainability. Derk's research focuses on the dynamics of systemic change and how such change can be accelerated through experimentation, collective learning, and the development of alternative institutions and practices. His work bridges science and practice, collaborating with governments, businesses, and civil society to advance sustainability transitions across sectors.
+
+---
 ## Joana Setzer
 
 <img src="{{ '/assets/image27/joana.jpeg' | relative_url }}" alt="Joana Setzer" width="200" style="float: left; margin: 0 20px 10px 0;">
